@@ -1,2 +1,3 @@
-# matplotlib-challenge
-Data analysis for Pymaceuticals, Inc.
+# matplotlib-challenge, Thanks to Will Wright and Amanda Baynard for assistance
+Pymaceuticals Inc. SCC Synopsis by Dr. Brown
+It brings me difficulty to report that the results of our testing are mixed. On one hand, Ramicane was the sole rival drug to offer a lower average tumor size at the study's conclusion, on direct comparison testing. On the other hand, some of our subjects had their tumors rebound after roughly four weeks on Capomulin. We can rule out increased weight as a cause of this, as our fatter mice generally had larger tumors. I recommend that we continue to test Capomulin and focus on tumor size rebound in further comparisons. We cannot use this study to conclusively demonstrate the effectiveness of Capomulin.
